@@ -1,6 +1,6 @@
 # Mente Digital: Navegando pela Saúde Mental na Era dos Bytes
 
-Bem-vindo ao repositório do ebook "Mente Digital: Navegando pela Saúde Mental na Era dos Bytes"! Este ebook aborda questões cruciais sobre saúde mental no mundo digital e oferece insights valiosos sobre como equilibrar o uso da tecnologia com o bem-estar mental.
+Bem-vindo ao repositório do ebook "Ciber Equilíbrio: Sobrevivendo à Era Digital com Saúde Mental "! Este ebook aborda questões cruciais sobre saúde mental no mundo digital e oferece insights valiosos sobre como equilibrar o uso da tecnologia com o bem-estar mental.
 
 ## Sobre o Ebook
 
@@ -20,6 +20,6 @@ Este ebook é disponibilizado sob a licença [Creative Commons Attribution 4.0 I
 
 ## Contato
 
-Se você tiver alguma dúvida, feedback ou apenas quiser entrar em contato, sinta-se à vontade para abrir uma issue neste repositório ou enviar um e-mail para [seuemail@example.com].
+Se você tiver alguma dúvida, feedback ou apenas quiser entrar em contato, sinta-se à vontade para abrir uma issue neste repositório ou enviar um e-mail para [thyagopmelo@hotmail.com].
 
 Esperamos que este ebook seja útil e inspirador para você! Obrigado por contribuir para promover uma conversa saudável sobre saúde mental na era digital.
